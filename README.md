@@ -9,4 +9,6 @@ I ingested, cleaned, and transformed an order dataset in Python. I utilized Seab
 # Results 
 For the period 01-23-21 to 03-21-21, I discovered that there were 1512 unique customers with an average order of $2,675.00. I found that sales were aggressive on the weekend, averaging 1.16M.
 
-Additionally,  I identified that 20.6% of the customers who placed an order, ordered more than once. But, on average , 88% of customers don't make a second purchase in the subsequent week—— high churn and low retention exists. Lastly, I found the churn rate of customers to be 79.4%. People place orders but a majority don't. What is causing this? Is this dataset about a service like DoorDash or Uber where customers have x amount of free orders? More information is needed. 
+Additionally,  I identified that 20.6% of the customers who placed an order, ordered more than once. But, on average , 88% of customers don't make a second purchase in the subsequent week—— high churn and low retention exists. 
+
+Lastly, I found the churn rate of customers to be 79.4%. What is causing attrition? Is this a dataset about a service like DoorDash or Uber where customers have X amount of free orders? Could there be problem with the website or moblie app user experience that is making the checkout process difficult? More information is needed to understand churn. 
